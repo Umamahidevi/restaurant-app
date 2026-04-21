@@ -1,14 +1,14 @@
 import { useEffect } from "react";
 import AOS from "aos";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Menu from "./components/Menu";
-import Offers from "./components/Offers";
-import Reviews from "./components/Reviews";
-import Services from "./components/Services";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Navbar from "./Navbar";
+import Home from "./Home";
+import About from "./About";
+import Menu from "./Menu";
+import Offers from "./Offers";
+import Reviews from "./Reviews";
+import Services from "./Services";
+import Contact from "./Contact";
+import Footer from "./Footer";
 
 function App() {
 
